@@ -1,6 +1,6 @@
 [![CI Status](https://github.com/se-edu/addressbook-level3/workflows/Java%20CI/badge.svg)](https://github.com/se-edu/addressbook-level3/actions)
 
-![Ui](docs/images/Ui.png)
+![Ui](docs/images/Ui.jpg)
 
 * This is **a sample project for Software Engineering (SE) students**.<br>
   Example usages:
@@ -13,5 +13,3 @@
 * For the detailed documentation of this project, see the **[Address Book Product Website](https://se-education.org/addressbook-level3)**.
 * This project is a **part of the se-education.org** initiative. If you would like to contribute code to this project, see [se-education.org](https://se-education.org#https://se-education.org/#contributing) for more info.
 
-
-UniSave
